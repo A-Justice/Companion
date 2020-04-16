@@ -1,0 +1,171 @@
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\bin\Debug\Companion 1.0.exe.config
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Companion 1.0.exe
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Companion 1.0.pdb
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\bin\Debug\Companion 1.0.exe
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\bin\Debug\Companion 1.0.pdb
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\bin\Debug\IOops.dll
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\bin\Debug\ViewModels.dll
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\bin\Debug\SgmlReaderDll.dll
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\bin\Debug\ViewModels.pdb
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\bin\Debug\IOops.pdb
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Companion 1.0.csprojResolveAssemblyReference.cache
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Content\ConnectionSettings.g.cs
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Content\SettingsAppearance.g.cs
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Cwa-Engine\CwaAnalyst.g.cs
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Cwa-Engine\EngineWizardStartPage.g.cs
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Cwa-Engine\MainEngine.g.cs
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Cwa-Engine\MainWindowFrame.g.cs
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Cwa-Engine\PreviousResults.g.cs
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Cwa-Engine\saData.g.cs
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Cwa-Engine\SemesterAverage.g.cs
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\MainWindow.g.cs
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Pages\FirstUse.g.cs
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Pages\HomePage.g.cs
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Pages\LoginPage.g.cs
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Pages\Registration.g.cs
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Pages\Settings.g.cs
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Web-Engine\NewProjectPage.g.cs
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Web-Engine\WeStartPage.g.cs
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\App.g.cs
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Companion 1.0_MarkupCompile.cache
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Companion 1.0_MarkupCompile.lref
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\App.baml
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Content\ConnectionSettings.baml
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Content\SettingsAppearance.baml
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Cwa-Engine\CwaAnalyst.baml
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Cwa-Engine\EngineWizardStartPage.baml
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Cwa-Engine\MainEngine.baml
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Cwa-Engine\MainWindowFrame.baml
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Cwa-Engine\PreviousResults.baml
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Cwa-Engine\saData.baml
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Cwa-Engine\SemesterAverage.baml
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\MainWindow.baml
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Pages\FirstUse.baml
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Pages\HomePage.baml
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Pages\LoginPage.baml
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Pages\Registration.baml
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Pages\Settings.baml
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Resources\Resource Dictionaries\BigButtonStyle.baml
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Resources\Resource Dictionaries\ControlsResourse.baml
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Resources\Resource Dictionaries\HelloKitty.baml
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Resources\Resource Dictionaries\Love.baml
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Resources\Resource Dictionaries\SnowFlakes.baml
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Web-Engine\NewProjectPage.baml
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Web-Engine\WeStartPage.baml
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Companion 1.0.g.resources
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Companion_1._0.Properties.Resources.resources
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\Companion 1.0\obj\Debug\Companion 1.0.csproj.GenerateResource.Cache
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\bin\Debug\Companion 1.0.exe.config
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\bin\Debug\Companion 1.0.exe
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\bin\Debug\Companion 1.0.pdb
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\bin\Debug\IOops.dll
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\bin\Debug\ViewModels.dll
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\bin\Debug\SgmlReaderDll.dll
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\bin\Debug\ViewModels.pdb
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\bin\Debug\IOops.pdb
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Companion 1.0.csprojResolveAssemblyReference.cache
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Content\ConnectionSettings.g.cs
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Content\SettingsAppearance.g.cs
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Cwa-Engine\CwaAnalyst.g.cs
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Cwa-Engine\EngineWizardStartPage.g.cs
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Cwa-Engine\MainEngine.g.cs
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Cwa-Engine\MainWindowFrame.g.cs
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Cwa-Engine\PreviousResults.g.cs
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Cwa-Engine\saData.g.cs
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Cwa-Engine\SemesterAverage.g.cs
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\MainWindow.g.cs
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Pages\FirstUse.g.cs
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Pages\HomePage.g.cs
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Pages\LoginPage.g.cs
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Pages\Registration.g.cs
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Pages\Settings.g.cs
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Web-Engine\NewProjectPage.g.cs
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Web-Engine\WeStartPage.g.cs
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\App.g.cs
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Companion 1.0_MarkupCompile.cache
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Companion 1.0_MarkupCompile.lref
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\App.baml
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Content\ConnectionSettings.baml
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Content\SettingsAppearance.baml
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Cwa-Engine\CwaAnalyst.baml
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Cwa-Engine\EngineWizardStartPage.baml
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Cwa-Engine\MainEngine.baml
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Cwa-Engine\MainWindowFrame.baml
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Cwa-Engine\PreviousResults.baml
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Cwa-Engine\saData.baml
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Cwa-Engine\SemesterAverage.baml
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\MainWindow.baml
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Pages\FirstUse.baml
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Pages\HomePage.baml
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Pages\LoginPage.baml
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Pages\Registration.baml
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Pages\Settings.baml
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Resources\Resource Dictionaries\BigButtonStyle.baml
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Resources\Resource Dictionaries\ControlsResourse.baml
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Resources\Resource Dictionaries\HelloKitty.baml
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Resources\Resource Dictionaries\Love.baml
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Resources\Resource Dictionaries\SnowFlakes.baml
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Web-Engine\NewProjectPage.baml
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Web-Engine\WeStartPage.baml
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Companion 1.0.g.resources
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Companion_1._0.Properties.Resources.resources
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Companion 1.0.csproj.GenerateResource.Cache
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Companion 1.0.exe
+F:\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Companion 1.0.pdb
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\bin\Debug\Companion 1.0.exe.config
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\bin\Debug\Companion 1.0.exe
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\bin\Debug\Companion 1.0.pdb
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\bin\Debug\IOops.dll
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\bin\Debug\ViewModels.dll
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\bin\Debug\SgmlReaderDll.dll
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\bin\Debug\ViewModels.pdb
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\bin\Debug\IOops.pdb
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Companion 1.0.csprojResolveAssemblyReference.cache
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Content\ConnectionSettings.g.cs
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Content\SettingsAppearance.g.cs
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Cwa-Engine\CwaAnalyst.g.cs
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Cwa-Engine\EngineWizardStartPage.g.cs
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Cwa-Engine\MainEngine.g.cs
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Cwa-Engine\MainWindowFrame.g.cs
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Cwa-Engine\PreviousResults.g.cs
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Cwa-Engine\saData.g.cs
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Cwa-Engine\SemesterAverage.g.cs
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\MainWindow.g.cs
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Pages\FirstUse.g.cs
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Pages\HomePage.g.cs
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Pages\LoginPage.g.cs
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Pages\Registration.g.cs
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Pages\Settings.g.cs
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Web-Engine\NewProjectPage.g.cs
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Web-Engine\WeStartPage.g.cs
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\App.g.cs
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Companion 1.0_MarkupCompile.cache
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Companion 1.0_MarkupCompile.lref
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\App.baml
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Content\ConnectionSettings.baml
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Content\SettingsAppearance.baml
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Cwa-Engine\CwaAnalyst.baml
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Cwa-Engine\EngineWizardStartPage.baml
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Cwa-Engine\MainEngine.baml
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Cwa-Engine\MainWindowFrame.baml
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Cwa-Engine\PreviousResults.baml
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Cwa-Engine\saData.baml
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Cwa-Engine\SemesterAverage.baml
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\MainWindow.baml
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Pages\FirstUse.baml
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Pages\HomePage.baml
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Pages\LoginPage.baml
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Pages\Registration.baml
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Pages\Settings.baml
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Resources\Resource Dictionaries\BigButtonStyle.baml
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Resources\Resource Dictionaries\ControlsResourse.baml
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Resources\Resource Dictionaries\HelloKitty.baml
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Resources\Resource Dictionaries\Love.baml
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Resources\Resource Dictionaries\SnowFlakes.baml
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Web-Engine\NewProjectPage.baml
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Web-Engine\WeStartPage.baml
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Companion 1.0.g.resources
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Companion_1._0.Properties.Resources.resources
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Companion 1.0.csproj.GenerateResource.Cache
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Companion 1.0.exe
+D:\Development\Projects\C#\Companion\Companion 1.0\Companion 1.0\obj\Debug\Companion 1.0.pdb

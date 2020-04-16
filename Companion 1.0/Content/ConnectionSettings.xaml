@@ -1,0 +1,61 @@
+﻿<UserControl x:Class="Companion_1._0.Content.ConnectionSettings"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Companion_1._0.Content"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <GroupBox Header="Configure proxies and credential to access the internet"  >
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="97*"/>
+                </Grid.RowDefinitions>
+                <RadioButton Name="rdNoProxy" Content="No Proxy" Grid.Row="0" Checked="ProxyBoxes_Checked" IsChecked="{Binding NoProxy,UpdateSourceTrigger=PropertyChanged}"/>
+                <RadioButton Name="rdSystemProxy" Content="Use System Proxy" Grid.Row="1" Checked="ProxyBoxes_Checked" IsChecked="{Binding SytemProxy,UpdateSourceTrigger=PropertyChanged}"/>
+                <RadioButton Name="rdManualProxy" Content="Manual Proxy Configuration" Grid.Row="2"  Checked="ProxyBoxes_Checked" IsChecked="{Binding ManualProxy,UpdateSourceTrigger=PropertyChanged}"/>
+                <StackPanel Name="stP" Grid.Row="3" Orientation="Horizontal" Margin="5" IsEnabled="False" >
+                    <Label Content="HTTP Proxy :" VerticalContentAlignment="Center"/>
+                    <TextBox Name="txtProxy" Margin="5" Width="150" Text="{Binding Proxy,UpdateSourceTrigger=PropertyChanged}"/>
+                    <Label Content="Port :" VerticalContentAlignment="Center"/>
+                    <TextBox Name="txtPort" Margin="5" Width="150" Text="{Binding Port,UpdateSourceTrigger=PropertyChanged}"/>
+
+                </StackPanel>
+                <CheckBox Name="chkUseCred" Content="Use Credentials" Grid.Row="4" HorizontalAlignment="Center" Margin="5" Height="17" VerticalAlignment="Top"
+                          Click="ProxyBoxes_Checked" IsEnabled="False" IsChecked="{Binding UseCredentials,UpdateSourceTrigger=PropertyChanged}"/>
+                <GroupBox Name="gbCred" Grid.Row="5" Header="Credentials" >
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="131*"/>
+                            <ColumnDefinition Width="91*"/>
+                        </Grid.ColumnDefinitions>
+                        <Label Content="UserName :" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+                        <Label Content="PassWord :" Grid.Row="1" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+                        <TextBox Grid.Column="1" Margin="5" Text="{Binding UserName,UpdateSourceTrigger=PropertyChanged}"/>
+                        <TextBox Grid.Row="1" Grid.Column="1" Margin="5" Text="{Binding PassWord,UpdateSourceTrigger=PropertyChanged}"/>
+                    </Grid>
+                </GroupBox>
+            </Grid>
+        </GroupBox>
+    </Grid>
+</UserControl>

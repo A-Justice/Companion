@@ -1,0 +1,20 @@
+﻿<UserControl x:Class="Companion_1._0.Pages.Settings"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Companion_1._0.Pages"
+           xmlns:mui="http://firstfloorsoftware.com/ModernUI"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300" Unloaded="UserControl_Unloaded" Loaded="UserControl_Loaded">
+    <Grid Style="{StaticResource ContentRoot}">
+        <!--SelectedSource="/Content/SettingsAppearance.xaml"-->
+        <mui:ModernTab  Layout="List">
+            <mui:ModernTab.Links>
+                <mui:Link DisplayName="Appearance" Source="/Content/SettingsAppearance.xaml" />
+                <mui:Link DisplayName="CWA-Engine" Source="/Content/CwaSettings.xaml"/>
+                <mui:Link DisplayName="Connection-Settings" Source="/Content/ConnectionSettings.xaml"/>
+            </mui:ModernTab.Links>
+        </mui:ModernTab>
+    </Grid>
+</UserControl>

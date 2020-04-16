@@ -1,0 +1,15 @@
+﻿<UserControl x:Class="Companion_1._0.Cwa_Engine.MainEngine"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Companion_1._0.Cwa_Engine"
+             mc:Ignorable="d"
+             xmlns:mui="http://firstfloorsoftware.com/ModernUI"
+             d:DesignHeight="300" d:DesignWidth="300" Loaded="UserControl_Loaded">
+    <Grid>
+        <mui:ModernFrame Name="windowFrame">
+
+        </mui:ModernFrame>
+    </Grid>
+</UserControl>

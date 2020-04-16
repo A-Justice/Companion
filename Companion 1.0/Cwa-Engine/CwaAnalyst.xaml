@@ -1,0 +1,209 @@
+﻿<UserControl x:Class="Companion_1._0.Cwa_Engine.CwaAnalyst"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Companion_1._0.Cwa_Engine"
+             mc:Ignorable="d" Name="userControl"
+            xmlns:mui="http://firstfloorsoftware.com/ModernUI"
+             d:DesignHeight="500" d:DesignWidth="500" Loaded="userControl_Loaded">
+    <ScrollViewer>
+    <Grid  Name="MainGrid">
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="140*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="199*"/>
+        </Grid.RowDefinitions>
+
+
+        
+        <Canvas  Name="FlatCanvas" Width="29" Height="29" MouseUp="FlatCanvas_MouseUp" HorizontalAlignment="Left" VerticalAlignment="Top">
+            <Path Width="25"  Canvas.Left="2" Canvas.Top="2" Stretch="Fill" StrokeThickness="7"  Stroke="#FF000000" Fill="#FFFFFFFF" Data="F1 M 188.65,240.3C 201.99,240.226 215.331,240.152 228.672,240.078"/>
+            <Path Width="25"  Canvas.Left="2" Canvas.Top="11" Stretch="Fill" StrokeThickness="7"  Stroke="#FF000000" Fill="#FFFFFFFF" Data="F1 M 188.656,264.778C 201.996,264.704 215.337,264.63 228.678,264.556"/>
+            <Path Width="25"  Canvas.Left="2" Canvas.Top="20" Stretch="Fill" StrokeThickness="7"  Stroke="#FF000000" Fill="#FFFFFFFF" Data="F1 M 188.656,252.778C 201.996,252.704 215.337,252.63 228.678,252.556"/>
+            <Canvas.Triggers>
+                <EventTrigger RoutedEvent="Canvas.MouseUp">
+                    <EventTrigger.Actions>
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <DoubleAnimation 
+                                    Storyboard.TargetName="ControlsListBox"
+                                    Storyboard.TargetProperty="Width"
+                                    From="0" To="206" Duration="0:0:0:0.3"
+                                    AutoReverse="False"/>
+
+
+                                <DoubleAnimation Storyboard.TargetName="BlurEffect"
+                                                         Storyboard.TargetProperty="Radius"
+                                                         From="-1" To="5" AutoReverse="False"
+                                                         RepeatBehavior="1x" Duration="0:0:0:0.1"/>
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </EventTrigger.Actions>
+                </EventTrigger>
+            </Canvas.Triggers>
+       
+        </Canvas>
+
+        <Canvas Visibility="Hidden"  Name="ErectCanvas" Width="29" Height="29"   MouseUp="ErectCanvas_MouseUp" HorizontalAlignment="Left" VerticalAlignment="Top" >
+            <Path Width="7" Height="25" Canvas.Left="2" Canvas.Top="2"  Stretch="Fill" StrokeThickness="7" StrokeLineJoin="Round" Stroke="#FF000000" Fill="#FFFFFFFF" Data="F1 M 188.65,240.3C 201.99,240.226 215.331,240.152 228.672,240.078"/>
+            <Path Width="7" Height="25" Canvas.Left="11" Canvas.Top="2" Stretch="Fill" StrokeThickness="7" StrokeLineJoin="Round" Stroke="#FF000000" Fill="#FFFFFFFF" Data="F1 M 188.656,264.778C 201.996,264.704 215.337,264.63 228.678,264.556"/>
+            <Path Width="7" Height="25" Canvas.Left="20" Canvas.Top="2" Stretch="Fill" StrokeThickness="7" StrokeLineJoin="Round" Stroke="#FF000000" Fill="#FFFFFFFF" Data="F1 M 188.656,252.778C 201.996,252.704 215.337,252.63 228.678,252.556"/>
+            <Canvas.Triggers>
+                <EventTrigger RoutedEvent="Canvas.MouseUp">
+                    <EventTrigger.Actions>
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <DoubleAnimation 
+                                    Storyboard.TargetName="ControlsListBox"
+                                    Storyboard.TargetProperty="Width"
+                                    Duration="0:0:0:0.3"
+                                    AutoReverse="False"/>
+
+                                <DoubleAnimation Storyboard.TargetName="CwaLabel"
+                                                         Storyboard.TargetProperty="RenderTransform.X"
+                                                          AutoReverse="False"
+                                                          Duration="0:0:0:0.5"/>
+
+                                <DoubleAnimation Storyboard.TargetName="CwaLabel"
+                                                         Storyboard.TargetProperty="Opacity"
+                                                         To="0"
+                                                          AutoReverse="False"
+                                                          Duration="0:0:0:0.5"/>
+
+                                <DoubleAnimation Storyboard.TargetName="BlurEffect"
+                                                         Storyboard.TargetProperty="Radius"
+                                                         From="5" To="-1" AutoReverse="False"
+                                                          Duration="0:0:0:0.1"/>
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </EventTrigger.Actions>
+                </EventTrigger>
+            </Canvas.Triggers>
+        </Canvas>
+
+        <StackPanel  Grid.Row="1"  Grid.Column="2" Grid.RowSpan="5" Name="MainStack">
+       
+            <StackPanel Grid.Row="1" Grid.Column="2" Orientation="Horizontal">
+                <mui:BBCodeBlock BBCode="[b]Aspired CWA : " VerticalAlignment="Center"/>
+                <TextBox Name="DreamCwaTextBox" Text="{Binding DreamCwa,Mode=OneWayToSource,UpdateSourceTrigger=PropertyChanged}" KeyUp="TextBox_KeyUp" Width="50"
+                     VerticalAlignment="Center"/>
+                <Label Name="lblErrorMessage" Content="{Binding CwaErrorMessage,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}" Width="200" Margin="10,0,0,0"/>
+            </StackPanel>
+
+                <ScrollViewer>
+            <StackPanel Orientation="Horizontal" Grid.Row="3" Grid.Column="2" Margin="0,100,0,0"
+                        Name="CourseStackPanel" IsEnabled="False">
+                    
+                <StackPanel>
+                <DataGrid Name="DG" ItemsSource="{Binding}" AutoGenerateColumns="False" RowHeight="40">
+                    <DataGrid.Columns>
+                        <mui:DataGridTextColumn Header="Course Code"  Binding="{Binding CourseCode,UpdateSourceTrigger=PropertyChanged,Mode=TwoWay}"/>
+                        <mui:DataGridTextColumn Header="Course Name" Binding="{Binding CourseName,UpdateSourceTrigger=PropertyChanged,Mode=TwoWay}" />
+                        <mui:DataGridTextColumn Header="Credit hour" Binding="{Binding CreditHour,UpdateSourceTrigger=PropertyChanged,Mode=TwoWay}"/>
+                        <mui:DataGridTextColumn Header="Mark" Binding="{Binding Mark,UpdateSourceTrigger=PropertyChanged,Mode=TwoWay}" IsReadOnly="True" />
+                    </DataGrid.Columns>
+                </DataGrid>
+
+                <mui:BBCodeBlock Name="SemesterTrailLabel" BBCode="[b]Semeter Trails" Margin="0,0,0,5"/>
+                <DataGrid Name="TDG" ItemsSource="{Binding}" DataContext="{Binding TrailList}" AutoGenerateColumns="False" Margin="10,5,10,10" RowHeight="40">
+                    <DataGrid.Columns>
+                        <mui:DataGridTextColumn Header="Course Code"  Binding="{Binding CourseCode,UpdateSourceTrigger=PropertyChanged,Mode=TwoWay}"/>
+                        <mui:DataGridTextColumn Header="Course Name" Binding="{Binding CourseName,UpdateSourceTrigger=PropertyChanged,Mode=TwoWay}" />
+                        <mui:DataGridTextColumn Header="Credit hour" Binding="{Binding CreditHour,UpdateSourceTrigger=PropertyChanged,Mode=TwoWay}"/>
+                        <mui:DataGridTextColumn Header="Mark" Binding="{Binding Mark,UpdateSourceTrigger=PropertyChanged,Mode=TwoWay}" />
+                    </DataGrid.Columns>
+                </DataGrid>
+            </StackPanel>
+            <StackPanel Name="SliderStackPanel">
+            </StackPanel>
+        </StackPanel>
+                </ScrollViewer>
+            
+                <WrapPanel Orientation="Horizontal">
+                <mui:BBCodeBlock BBCode="[b]Highest Attaible CWA For Current Semester : " VerticalAlignment="Center"/>
+                <Label Name="HighestCwa" Content="{Binding HighestCwa,Mode=OneWay}"/>
+                <mui:BBCodeBlock BBCode="[b]Highest Attaible CWA For Current Semester : " VerticalAlignment="Center" Margin="20,0,0,0"/>
+                 <Label Name="LowestCwa" Content="{Binding LowestCwa,Mode=OneWay}"/>
+            </WrapPanel>
+           
+            <StackPanel.Effect>
+                <BlurEffect x:Name="BlurEffect" Radius="-1"/>
+            </StackPanel.Effect>
+
+            <StackPanel.Triggers>
+                <EventTrigger RoutedEvent="Canvas.MouseUp">
+                    <EventTrigger.Actions>
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <DoubleAnimation 
+                                    Storyboard.TargetName="ControlsListBox"
+                                    Storyboard.TargetProperty="Width"
+                                    Duration="0:0:0:0.3"
+                                    AutoReverse="False"/>
+
+                                <DoubleAnimation Storyboard.TargetName="BlurEffect"
+                                                         Storyboard.TargetProperty="Radius"
+                                                         From="5" To="-1" AutoReverse="False"
+                                                         RepeatBehavior="1x" Duration="0:0:0:0.1"/>
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </EventTrigger.Actions>
+                </EventTrigger>
+            </StackPanel.Triggers>
+        </StackPanel>
+
+        <Canvas Name="CwaValue" Grid.Row="1" Grid.RowSpan="4" Grid.ColumnSpan="4" MouseUp="CwaValue_MouseUp"  >
+            <mui:BBCodeBlock Name="CwaLabel" BBCode="{Binding CWA,Mode=TwoWay,UpdateSourceTrigger=PropertyChanged}"
+                              Foreground="Red" FontWeight="ExtraBold"
+                             Canvas.Left="100" FontSize="20" Canvas.Top="1" Visibility="Hidden">
+                <mui:BBCodeBlock.RenderTransform>
+                    <TranslateTransform/>
+                </mui:BBCodeBlock.RenderTransform>
+            </mui:BBCodeBlock>
+        </Canvas>
+      
+        <Canvas Name="SidePaneCanvas" Grid.Row="1" Grid.RowSpan="4">
+            <ListBox Name="ControlsListBox"  Grid.RowSpan="3" HorizontalAlignment="Left"  Width="0"   BorderThickness="1" Height="144444">
+                <Button Name="CalculateCwaButton" HorizontalAlignment="Left"  Content="CalculateCwa" Width="200"  Click="CalculateCwaButton_Click" >
+                    <Button.Triggers>
+                        <EventTrigger RoutedEvent="Button.Click">
+                            <EventTrigger.Actions>
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <DoubleAnimation Storyboard.TargetName="CwaLabel"
+                                                         Storyboard.TargetProperty="Opacity"
+                                                         From="0"
+                                                         To="100"
+                                                          AutoReverse="False"
+                                                          Duration="0:0:0:0.5"/>
+
+                                        <DoubleAnimation Storyboard.TargetName="CwaLabel"
+                                                         Storyboard.TargetProperty="RenderTransform.X"
+                                                         From="0" To="140" AutoReverse="False"
+                                                         RepeatBehavior="1x" Duration="0:0:0:0.5"/>
+                                        
+
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger.Actions>
+                        </EventTrigger>
+                    </Button.Triggers>
+                </Button>
+                <Button Name="PreviousRecordButton" HorizontalAlignment="Left"  Content="EditPreviousRecord" Width="200" Click="PreviousRecordButton_Click" />
+            </ListBox>
+
+        </Canvas>
+       
+    </Grid>
+    </ScrollViewer>
+</UserControl>

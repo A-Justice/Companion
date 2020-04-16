@@ -1,0 +1,39 @@
+﻿<UserControl x:Class="Companion_1._0.Cwa_Engine.SemesterAverage"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+              xmlns:mui="http://firstfloorsoftware.com/ModernUI"
+             xmlns:local="clr-namespace:Companion_1._0.Cwa_Engine"
+             mc:Ignorable="d" 
+             d:DesignHeight="700" d:DesignWidth="700" Loaded="UserControl_Loaded">
+    <Grid>
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="16*"/>
+            <RowDefinition Height="13*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="98*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="6*"/>
+        </Grid.RowDefinitions>
+        <mui:BBCodeBlock Grid.Row="1" BBCode="[b]Choose the Program , level and Semester you wish to check the semester average For[/b]" Grid.Column="1"/>
+        <StackPanel Margin="0,5,0,0"  Orientation="Horizontal" Grid.Row="2" Grid.Column="1" >
+            <Label Content="Program : "  VerticalAlignment="Center" Target="{Binding ElementName=cboProgram}"/>
+            <ComboBox Name="cboProgram" SelectedItem="{Binding program,UpdateSourceTrigger=PropertyChanged}"/>
+            <Label Content="Level : " Margin="50,0,0,0" VerticalAlignment="Center" Target="{Binding ElementName=cboLevel}"/>
+            <ComboBox Name="cboLevel" SelectedItem="{Binding level,UpdateSourceTrigger=PropertyChanged}"/>
+            <Label Content="Semester : " Margin="50,0,0,0" VerticalAlignment="Center" Target="{Binding ElementName=cboSemester}"/>
+            <ComboBox Name="cboSemester" SelectedItem="{Binding semester,UpdateSourceTrigger=PropertyChanged}"/>
+        </StackPanel>
+        <mui:ModernFrame Name="frame" Grid.Row="3" Grid.Column="1" 
+                         Margin="0,10,0,0"/>
+
+       
+    </Grid>
+</UserControl>

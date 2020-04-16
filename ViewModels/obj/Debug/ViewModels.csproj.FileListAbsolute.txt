@@ -1,0 +1,61 @@
+C:\Users\Justice\Desktop\Companion 1.0\ViewModels\bin\Debug\ViewModels.dll
+C:\Users\Justice\Desktop\Companion 1.0\ViewModels\bin\Debug\ViewModels.pdb
+C:\Users\Justice\Desktop\Companion 1.0\ViewModels\bin\Debug\IOops.dll
+C:\Users\Justice\Desktop\Companion 1.0\ViewModels\bin\Debug\IOops.pdb
+C:\Users\Justice\Desktop\Companion 1.0\ViewModels\obj\Debug\ViewModels.dll
+C:\Users\Justice\Desktop\Companion 1.0\ViewModels\obj\Debug\ViewModels.pdb
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion 1.0\ViewModels\bin\Debug\ViewModels.dll
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion 1.0\ViewModels\bin\Debug\ViewModels.pdb
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion 1.0\ViewModels\obj\Debug\ViewModels.dll
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion 1.0\ViewModels\obj\Debug\ViewModels.pdb
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion 1.0\ViewModels\bin\Debug\IOops.dll
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion 1.0\ViewModels\bin\Debug\IOops.pdb
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion 1.0\ViewModels\bin\Debug\FirstFloor.ModernUI.dll
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion 1.0\ViewModels\obj\Debug\ViewModels.csprojResolveAssemblyReference.cache
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion 1.0\ViewModels\bin\Debug\FirstFloor.ModernUI.pdb
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion 1.0\ViewModels\bin\Debug\FirstFloor.ModernUI.xml
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion 1.0\ViewModels\bin\Debug\fr\FirstFloor.ModernUI.resources.dll
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion 1.0\ViewModels\bin\Debug\it\FirstFloor.ModernUI.resources.dll
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion 1.0\ViewModels\bin\Debug\pl\FirstFloor.ModernUI.resources.dll
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion 1.0\ViewModels\bin\Debug\ru\FirstFloor.ModernUI.resources.dll
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion 1.0\ViewModels\bin\Debug\SgmlReaderDll.dll
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\ViewModels\bin\Debug\ViewModels.dll
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\ViewModels\bin\Debug\ViewModels.pdb
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\ViewModels\bin\Debug\IOops.dll
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\ViewModels\bin\Debug\SgmlReaderDll.dll
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\ViewModels\bin\Debug\IOops.pdb
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\ViewModels\obj\Debug\ViewModels.dll
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\ViewModels\obj\Debug\ViewModels.pdb
+I:\Companion\Companion 1.0\ViewModels\bin\Debug\ViewModels.dll
+I:\Companion\Companion 1.0\ViewModels\bin\Debug\ViewModels.pdb
+I:\Companion\Companion 1.0\ViewModels\bin\Debug\IOops.dll
+I:\Companion\Companion 1.0\ViewModels\bin\Debug\SgmlReaderDll.dll
+I:\Companion\Companion 1.0\ViewModels\bin\Debug\FirstFloor.ModernUI.pdb
+I:\Companion\Companion 1.0\ViewModels\bin\Debug\FirstFloor.ModernUI.xml
+I:\Companion\Companion 1.0\ViewModels\bin\Debug\IOops.pdb
+I:\Companion\Companion 1.0\ViewModels\bin\Debug\fr\FirstFloor.ModernUI.resources.dll
+I:\Companion\Companion 1.0\ViewModels\bin\Debug\it\FirstFloor.ModernUI.resources.dll
+I:\Companion\Companion 1.0\ViewModels\bin\Debug\pl\FirstFloor.ModernUI.resources.dll
+I:\Companion\Companion 1.0\ViewModels\bin\Debug\ru\FirstFloor.ModernUI.resources.dll
+I:\Companion\Companion 1.0\ViewModels\obj\Debug\ViewModels.csprojResolveAssemblyReference.cache
+I:\Companion\Companion 1.0\ViewModels\obj\Debug\ViewModels.dll
+I:\Companion\Companion 1.0\ViewModels\obj\Debug\ViewModels.pdb
+C:\Users\Justice\Documents\Visual Studio 2015\Projects\Companion\Companion 1.0\ViewModels\obj\Debug\ViewModels.csprojResolveAssemblyReference.cache
+F:\Projects\C#\Companion\Companion 1.0\ViewModels\bin\Debug\ViewModels.dll
+F:\Projects\C#\Companion\Companion 1.0\ViewModels\bin\Debug\ViewModels.pdb
+F:\Projects\C#\Companion\Companion 1.0\ViewModels\bin\Debug\IOops.dll
+F:\Projects\C#\Companion\Companion 1.0\ViewModels\bin\Debug\SgmlReaderDll.dll
+F:\Projects\C#\Companion\Companion 1.0\ViewModels\bin\Debug\FirstFloor.ModernUI.xml
+F:\Projects\C#\Companion\Companion 1.0\ViewModels\bin\Debug\IOops.pdb
+F:\Projects\C#\Companion\Companion 1.0\ViewModels\obj\Debug\ViewModels.csprojResolveAssemblyReference.cache
+F:\Projects\C#\Companion\Companion 1.0\ViewModels\obj\Debug\ViewModels.dll
+F:\Projects\C#\Companion\Companion 1.0\ViewModels\obj\Debug\ViewModels.pdb
+D:\Development\Projects\C#\Companion\Companion 1.0\ViewModels\bin\Debug\ViewModels.dll
+D:\Development\Projects\C#\Companion\Companion 1.0\ViewModels\bin\Debug\ViewModels.pdb
+D:\Development\Projects\C#\Companion\Companion 1.0\ViewModels\bin\Debug\IOops.dll
+D:\Development\Projects\C#\Companion\Companion 1.0\ViewModels\bin\Debug\SgmlReaderDll.dll
+D:\Development\Projects\C#\Companion\Companion 1.0\ViewModels\bin\Debug\FirstFloor.ModernUI.xml
+D:\Development\Projects\C#\Companion\Companion 1.0\ViewModels\bin\Debug\IOops.pdb
+D:\Development\Projects\C#\Companion\Companion 1.0\ViewModels\obj\Debug\ViewModels.csprojResolveAssemblyReference.cache
+D:\Development\Projects\C#\Companion\Companion 1.0\ViewModels\obj\Debug\ViewModels.dll
+D:\Development\Projects\C#\Companion\Companion 1.0\ViewModels\obj\Debug\ViewModels.pdb
